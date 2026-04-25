@@ -1,6 +1,6 @@
 # 🌊 EcoSeas — UX/UI Design Case Study
 
-![EcoSeas App Design](screenshots/cover.png)
+![EcoSeas App Design](cover.png)
 
 ## 📋 Project Overview
 
